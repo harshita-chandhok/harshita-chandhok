@@ -32,13 +32,8 @@ I build web applications end to end, and I care about APIs that stay fast and re
 |---|---|
 | [ProjectName](link) | One line on the problem it solves |
 -->
-## Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshita-chandhok/harshita-chandhok/output/github-snake-dark.svg">
-  <img alt="contribution graph" src="https://raw.githubusercontent.com/harshita-chandhok/harshita-chandhok/output/github-snake.svg">
-</picture>
 
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshitachandhok/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/harshitachandhok2111/)
