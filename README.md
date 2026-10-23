@@ -23,12 +23,21 @@ I build web applications end to end, and I care about APIs that stay fast and re
 
 
 ## Featured work
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshita-chandhok/harshita-chandhok/output/github-snake-dark.svg">
+  <img alt="contribution graph" src="https://raw.githubusercontent.com/harshita-chandhok/harshita-chandhok/output/github-snake.svg">
+</picture>
 <!-- UNLOCK when a project is live
 | Project | What it does |
 |---|---|
 | [ProjectName](link) | One line on the problem it solves |
 -->
+## Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshita-chandhok/harshita-chandhok/output/github-snake-dark.svg">
+  <img alt="contribution graph" src="https://raw.githubusercontent.com/harshita-chandhok/harshita-chandhok/output/github-snake.svg">
+</picture>
 
 ## Connect
 
