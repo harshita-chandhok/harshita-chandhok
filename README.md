@@ -19,7 +19,7 @@ I build web applications end to end, and I care about APIs that stay fast and re
 
 **AI engineering**
 
-![](https://img.shields.io/badge/LLM_APIs-6d28d9?style=flat-square) ![](https://img.shields.io/badge/Prompt_Engineering-6d28d9?style=flat-square) ![](https://img.shields.io/badge/Embeddings-6d28d9?style=flat-square) ![](https://img.shields.io/badge/Vector_Search-6d28d9?style=flat-square) ![](https://img.shields.io/badge/RAG-6d28d9?style=flat-square) ![](https://img.shields.io/badge/Evaluation-6d28d9?style=flat-square) ![](https://img.shields.io/badge/Tool_Calling-6d28d9?style=flat-square)
+![](https://img.shields.io/badge/LLM_APIs-7A1F5C?style=flat-square) ![](https://img.shields.io/badge/Prompt_Engineering-7A1F5C?style=flat-square) ![](https://img.shields.io/badge/Embeddings-7A1F5C?style=flat-square) ![](https://img.shields.io/badge/Vector_Search-7A1F5C?style=flat-square) ![](https://img.shields.io/badge/RAG-7A1F5C?style=flat-square) ![](https://img.shields.io/badge/Evaluation-7A1F5C?style=flat-square) ![](https://img.shields.io/badge/Tool_Calling-7A1F5C?style=flat-square)
 
 
 ## Featured work
