@@ -13,7 +13,7 @@ I build web applications end to end, and I care about APIs that stay fast and re
 
 **Backend engineering**
 
-![](https://img.shields.io/badge/HTTP-0369a1?style=flat-square) ![](https://img.shields.io/badge/REST_API_Design-0369a1?style=flat-square) ![](https://img.shields.io/badge/Pagination-0369a1?style=flat-square) ![](https://img.shields.io/badge/Latency_%26_Percentiles-0369a1?style=flat-square) ![](https://img.shields.io/badge/Database_Indexing-0369a1?style=flat-square) ![](https://img.shields.io/badge/JWT_Auth-0369a1?style=flat-square) ![](https://img.shields.io/badge/Caching-0369a1?style=flat-square) ![](https://img.shields.io/badge/Queues-0369a1?style=flat-square) ![](https://img.shields.io/badge/Rate_Limiting-0369a1?style=flat-square) ![](https://img.shields.io/badge/Observability-0369a1?style=flat-square)
+![](https://img.shields.io/badge/HTTP-D3103A?style=flat-square) ![](https://img.shields.io/badge/REST_API_Design-D3103A?style=flat-square) ![](https://img.shields.io/badge/Pagination-D3103A?style=flat-square) ![](https://img.shields.io/badge/Latency_%26_Percentiles-D3103A?style=flat-square) ![](https://img.shields.io/badge/Database_Indexing-D3103A?style=flat-square) ![](https://img.shields.io/badge/JWT_Auth-D3103A?style=flat-square) ![](https://img.shields.io/badge/Caching-D3103A?style=flat-square) ![](https://img.shields.io/badge/Queues-D3103A?style=flat-square) ![](https://img.shields.io/badge/Rate_Limiting-D3103A?style=flat-square) ![](https://img.shields.io/badge/Observability-D3103A?style=flat-square)
 
 
 
