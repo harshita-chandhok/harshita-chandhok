@@ -36,4 +36,5 @@ I build web applications end to end, and I care about APIs that stay fast and re
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshitachandhok/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-D3103A?style=for-the-badge&logoColor=white)](https://harshita-chandhok.github.io)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/harshitachandhok2111/)
